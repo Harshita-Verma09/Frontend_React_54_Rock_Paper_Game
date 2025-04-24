@@ -1,12 +1,53 @@
-# React + Vite
+# 🪨 Rock Paper Scissors Game 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive **Rock Paper Scissors** game built using **React** and styled with **Tailwind CSS**. You play against the AI, and the app keeps track of your score.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+[Click here to play the game!](#) <!-- (Add your deployed link here) -->
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+<!-- You can upload screenshots in your GitHub repo and link them here like: -->
+<!-- ![Game Screenshot](./screenshots/game.png) -->
+
+---
+
+## ✨ Features
+
+- 🎮 Classic Rock-Paper-Scissors Gameplay
+- 🧠 Random AI Opponent Logic
+- 🔄 Real-Time Result Display
+- 📊 Score Tracking (You vs AI)
+- ⚡️ Smooth UI with Tailwind CSS
+- 🧑‍💻 Clean and Functional React Code
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React
+- **Styling:** Tailwind CSS
+- **State Management:** React Hooks (`useState`)
+
+---
+
+## 🧩 Game Logic
+
+- `rock` beats `scissors`
+- `paper` beats `rock`
+- `scissors` beats `paper`
+- Identical choices result in a **Draw**
+
+---
+
+## 📁 Folder Structure
+
+rock-paper-scissors/ ├── src/ │ ├── App.js │ ├── RockPaperScissors.jsx │ └── index.js ├── public/ ├── package.json └── README.md
+
+---
+
