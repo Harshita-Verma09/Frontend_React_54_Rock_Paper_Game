@@ -1,34 +1,26 @@
-# 🪨 Rock Paper Scissors Game 🎮
+#  Rock Paper Scissors Game 
 
 A fun and interactive **Rock Paper Scissors** game built using **React** and styled with **Tailwind CSS**. You play against the AI, and the app keeps track of your score.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 [Click here to play the game!](#) <!-- (Add your deployed link here) -->
 
----
 
-## 📸 Screenshots
+##  Features
 
-<!-- You can upload screenshots in your GitHub repo and link them here like: -->
-<!-- ![Game Screenshot](./screenshots/game.png) -->
-
----
-
-## ✨ Features
-
-- 🎮 Classic Rock-Paper-Scissors Gameplay
-- 🧠 Random AI Opponent Logic
-- 🔄 Real-Time Result Display
-- 📊 Score Tracking (You vs AI)
-- ⚡️ Smooth UI with Tailwind CSS
-- 🧑‍💻 Clean and Functional React Code
+-  Classic Rock-Paper-Scissors Gameplay
+-  Random AI Opponent Logic
+-  Real-Time Result Display
+-  Score Tracking (You vs AI)
+-  Smooth UI with Tailwind CSS
+-  Clean and Functional React Code
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React
 - **Styling:** Tailwind CSS
@@ -36,7 +28,7 @@ A fun and interactive **Rock Paper Scissors** game built using **React** and sty
 
 ---
 
-## 🧩 Game Logic
+##  Game Logic
 
 - `rock` beats `scissors`
 - `paper` beats `rock`
@@ -45,7 +37,7 @@ A fun and interactive **Rock Paper Scissors** game built using **React** and sty
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 rock-paper-scissors/ ├── src/ │ ├── App.js │ ├── RockPaperScissors.jsx │ └── index.js ├── public/ ├── package.json └── README.md
 
